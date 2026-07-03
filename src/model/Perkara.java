@@ -14,6 +14,18 @@ public abstract class Perkara implements DokumenHukum {
         this.tanggalPutusan = tanggalPutusan;
     }
 
+    public String getNomorPerkara() {
+        return nomorPerkara;
+    }
+
+    public  String getPengadilan() {
+        return pengadilan;
+    }
+
+    public String getTanggalPutusan() {
+        return tanggalPutusan;
+    }
+
     @Override
     public abstract void tampilkanRingkasan();
 }
