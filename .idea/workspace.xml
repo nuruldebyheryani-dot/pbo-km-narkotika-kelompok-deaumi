@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cfefbac-81d9-481d-87cb-c1880c689f96" name="Changes" comment="Merge remote-tracking branch 'origin/feature/model' into feature/controller&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pbonarkotika.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/DokumenHukum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/KnowledgeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Perkara.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Putusan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/StatistikPutusan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/DokumenHukum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/DokumenHukum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/KnowledgeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/KnowledgeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Perkara.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Perkara.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Putusan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Putusan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/StatistikPutusan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/StatistikPutusan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,7 +59,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "Merging feature/controller",
+    "git-widget-placeholder": "develop",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -92,6 +91,7 @@
       <updated>1782983552746</updated>
       <workItem from="1782983556700" duration="595000" />
       <workItem from="1782984171518" duration="16941000" />
+      <workItem from="1783123355060" duration="2217000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial project setup">
       <option name="closed" value="true" />

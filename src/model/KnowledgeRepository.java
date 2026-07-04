@@ -44,4 +44,12 @@ public class KnowledgeRepository {
     public ArrayList<Putusan> getDaftarSemua() {
         return daftarPutusan;
     }
+
+    public double hitungTotalDendaSemuaPutusan() {
+        double totalDenda = 0;
+        for(Putusan p : daftarPutusan) {
+            totalDenda += p.getVonisDenda();
+        }
+        return totalDenda;
+    }
 }

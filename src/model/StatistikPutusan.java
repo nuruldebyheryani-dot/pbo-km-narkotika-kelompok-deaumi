@@ -31,6 +31,16 @@ public class StatistikPutusan {
         this.rataRataDenda = totalDenda / totalPutusan;
     }
 
+    public int hitungKasusBerat(ArrayList<Putusan> daftar) {
+        int count = 0;
+        for (Putusan p : daftar) {
+            if ("Berat / Maksimal".equals(p.getKategoriHukuman())) {
+                count++;
+            }
+        }
+        return count;
+    }
+
     public void tampilkanLaporan(){
         System.out.println("\n==================================================");
         System.out.println("    LAPORAN STATISTIK KNOWLEDGE MANAGEMENT   ");

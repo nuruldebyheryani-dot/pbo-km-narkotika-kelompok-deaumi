@@ -33,6 +33,10 @@ public class Putusan extends Perkara {
         jumlahDibuat++;
     }
 
+    public boolean apakahDiBawahUmur() {
+        return this.umurTerdakwa<18;
+    }
+
     public static int getJumlahDibuat() {
         return jumlahDibuat;
     }
@@ -63,7 +67,7 @@ public void tampilkan() {
             System.out.println("Nomor Perkara : " + nomorPerkara);
             System.out.println("Lembaga Peradilan : " + pengadilan);
             System.out.println("tanggal Putusan : " + tanggalPutusan);
-            System.out.println("Nama terdakwa : " + namaTerdakwa + " (" + umurTerdakwa + "tahun)");
+            System.out.println("Nama terdakwa : " + namaTerdakwa + " (" + umurTerdakwa + "tahun)" + (apakahDiBawahUmur() ? " [Anak di bawah umur] " : ""));
             System.out.println("Kategori Kasus : " + getKategoriHukuman());
             System.out.println(" Narkotika & Sifat : " + jenisNarkotika + " (" + beratBarangBukti + " gram) -> " + peranTerdakwa);
             System.out.println("Pasal Pelanggaran : " + pasalDilanggar);
