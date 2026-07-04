@@ -162,7 +162,7 @@ public void tampilkan() {
     }
 
     public void setNomorPerkara(String NomorPerkara) {
-        this.nomorPerkara = nomorPerkara;
+        this.NomorPerkara = NomorPerkara;
     }
 }
 

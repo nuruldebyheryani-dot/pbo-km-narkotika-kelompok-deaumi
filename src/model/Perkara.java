@@ -5,6 +5,7 @@ public abstract class Perkara implements DokumenHukum {
     protected String nomorPerkara;
     protected String pengadilan;
     protected String tanggalPutusan;
+    protected String NomorPerkara;
 
     public Perkara() {}
 
