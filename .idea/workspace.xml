@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cfefbac-81d9-481d-87cb-c1880c689f96" name="Changes" comment="feat(model): complete all model structures with custom business logic and formatting by Nurul" />
+    <list default="true" id="6cfefbac-81d9-481d-87cb-c1880c689f96" name="Changes" comment="Merge remote-tracking branch 'origin/develop' into develop" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +98,7 @@
       <workItem from="1783142878474" duration="125000" />
       <workItem from="1783144078360" duration="1031000" />
       <workItem from="1783146629810" duration="17560000" />
-      <workItem from="1783177320786" duration="320000" />
+      <workItem from="1783177320786" duration="665000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial project setup">
       <option name="closed" value="true" />
@@ -172,7 +172,31 @@
       <option name="project" value="LOCAL" />
       <updated>1783177359785</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat(model): complete all model structures with custom business logic and formatting by Nurul">
+      <option name="closed" value="true" />
+      <created>1783177661787</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1783177661787</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat(model): complete all model structures with custom business logic and formatting by Nurul">
+      <option name="closed" value="true" />
+      <created>1783177757695</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1783177757695</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'origin/develop' into develop">
+      <option name="closed" value="true" />
+      <created>1783177835017</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1783177835018</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +206,8 @@
     <MESSAGE value="feat: initial project setup" />
     <MESSAGE value="Menambahkan dataset 50 putusan narkotika" />
     <MESSAGE value="feat(model): complete all model structures with custom business logic and formatting by Nurul" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(model): complete all model structures with custom business logic and formatting by Nurul" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/develop' into develop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/develop' into develop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
