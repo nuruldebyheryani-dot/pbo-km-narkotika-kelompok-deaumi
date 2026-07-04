@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cfefbac-81d9-481d-87cb-c1880c689f96" name="Changes" comment="feat(model): complete all model structures with custom business logic and formatting by Nurul">
-      <change afterPath="$PROJECT_DIR$/data_putusan.txt" afterDir="false" />
+    <list default="true" id="6cfefbac-81d9-481d-87cb-c1880c689f96" name="Changes" comment="Menambahkan dataset 50 putusan narkotika">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/KnowledgeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/KnowledgeRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +99,7 @@
       <workItem from="1783126748399" duration="9959000" />
       <workItem from="1783142878474" duration="125000" />
       <workItem from="1783144078360" duration="1031000" />
-      <workItem from="1783146629810" duration="16582000" />
+      <workItem from="1783146629810" duration="17560000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial project setup">
       <option name="closed" value="true" />
@@ -150,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783170349480</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Menambahkan dataset 50 putusan narkotika">
+      <option name="closed" value="true" />
+      <created>1783175368034</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1783175368034</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +166,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: initial project setup" />
     <MESSAGE value="feat(model): complete all model structures with custom business logic and formatting by Nurul" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(model): complete all model structures with custom business logic and formatting by Nurul" />
+    <MESSAGE value="Menambahkan dataset 50 putusan narkotika" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menambahkan dataset 50 putusan narkotika" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
