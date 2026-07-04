@@ -10,12 +10,12 @@ public class KnowledgeController {
     private KnowledgeRepository repository;
     private ConsoleView view;
 
-    public KnowledgeController(){
+    public KnowledgeController() {
         repository = new KnowledgeRepository();
         view = new ConsoleView();
     }
 
-    public void jalankan(){
+    public void jalankan() {
 
         boolean jalan = true;
 
@@ -23,7 +23,7 @@ public class KnowledgeController {
 
             int pilihan = view.tampilkanMenu();
 
-            switch (pilihan){
+            switch (pilihan) {
 
                 case 1:
                     tambahPutusan();
@@ -56,7 +56,7 @@ public class KnowledgeController {
         }
     }
 
-    private void tambahPutusan(){
+    private void tambahPutusan() {
 
         try {
 
@@ -81,7 +81,7 @@ public class KnowledgeController {
 
             view.tampilkanPesan("Data berhasil disimpan!");
 
-        } catch (Exception e){
+        } catch (Exception e) {
             view.tampilkanPesan("Input tidak valid");
         }
     }
@@ -100,7 +100,7 @@ public class KnowledgeController {
 
         int no = 1;
 
-        for (Putusan p : daftar){
+        for (Putusan p : daftar) {
 
             view.tampilkanBaris(
                     no++,
@@ -156,12 +156,12 @@ public class KnowledgeController {
         }
     }
 
-    private  void  tampilakanStatistik(){
+    private void tampilakanStatistik() {
 
         ArrayList<Putusan> daftar =
                 repository.getDaftarSemua();
 
-        if (daftar.isEmpty()){
+        if (daftar.isEmpty()) {
             view.tampilkanPesan("Belum ada data.");
             return;
 
