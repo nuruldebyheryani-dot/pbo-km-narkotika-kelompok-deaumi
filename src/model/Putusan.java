@@ -72,7 +72,7 @@ public void tampilkan() {
             System.out.println(" Narkotika & Sifat : " + jenisNarkotika + " (" + beratBarangBukti + " gram) -> " + peranTerdakwa);
             System.out.println("Pasal Pelanggaran : " + pasalDilanggar);
             System.out.println("Vonis & Denda : " + vonisHukuman + " Bulan Penjara & Subsider Rp " + vonisDenda);
-            System.out.println("Hakim Ketua" + namaHakim);
+            System.out.println("Hakim Ketua: " + namaHakim);
             System.out.println("==================================================");
         } else {
             tampilkan();
@@ -159,10 +159,6 @@ public void tampilkan() {
 
     public static void setJumlahDibuat(int jumlahDibuat) {
         Putusan.jumlahDibuat = jumlahDibuat;
-    }
-
-    public String getNomorPerkara() {
-        return this.nomorPerkara;
     }
 
     public void setNomorPerkara(String NomorPerkara) {

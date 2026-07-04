@@ -12,7 +12,7 @@ public class StatistikPutusan {
         hitungOtomatis(daftar);
     }
 
-    private void hitungOtomatis(ArrayList<Putusan> daftar) {
+    public void hitungOtomatis(ArrayList<Putusan> daftar) {
         if (daftar.isEmpty()) {
             this.rataRataVonis = 0;
             this.rataRataDenda = 0;
