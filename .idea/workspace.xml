@@ -7,8 +7,6 @@
     <list default="true" id="6cfefbac-81d9-481d-87cb-c1880c689f96" name="Changes" comment="feat(model): complete all model structures with custom business logic and formatting by Nurul">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/model/KnowledgeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/KnowledgeRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Perkara.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Perkara.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Putusan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Putusan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +94,7 @@
       <workItem from="1783126748399" duration="9959000" />
       <workItem from="1783142878474" duration="125000" />
       <workItem from="1783144078360" duration="1031000" />
-      <workItem from="1783146629810" duration="10911000" />
+      <workItem from="1783146629810" duration="13710000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial project setup">
       <option name="closed" value="true" />
@@ -122,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783137067904</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat(model): complete all model structures with custom business logic and formatting by Nurul">
+      <option name="closed" value="true" />
+      <created>1783166411443</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1783166411443</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
