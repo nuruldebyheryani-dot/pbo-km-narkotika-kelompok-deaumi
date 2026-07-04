@@ -1,0 +1,502 @@
+===========================================================
+DATASET PUTUSAN PENGADILAN NARKOTIKA
+Knowledge Management System
+Sumber : Direktori Putusan Mahkamah Agung Republik Indonesia
+Jumlah Data : 50
+===========================================================
+
+Data 1
+Nomor Perkara      : 1/Pid.Sus/2024/PN Sby
+Nama Terdakwa      : Ricky Noviyanto Bin Sugeng Hariyono
+Umur               : 35 Tahun
+Jenis Narkotika    : Sabu (Metamfamina) Golongan I
+Berat Barang Bukti : 1.03 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU RI No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 2
+Nomor Perkara      : 3/Pid.Sus/2024/PN Sby
+Nama Terdakwa      : I Putu Gede Dhani Gita Candra
+Umur               : 25 Tahun
+Jenis Narkotika    : Sabu (Metamfamina) Golongan I
+Berat Barang Bukti : 2.38 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU RI No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 3
+Nomor Perkara      : 7/Pid.Sus/2024/PN Sby
+Nama Terdakwa      : Muhammad Ricky Bagus Saputro
+Umur               : 26 Tahun
+Jenis Narkotika    : Sabu (Metamfamina) Golongan I
+Berat Barang Bukti : 0.058 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU RI No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 4
+Nomor Perkara      : 9/Pid.Sus/2024/PN Sby
+Nama Terdakwa      : Ghito Rolies Jems Tanawani Alias Boncu
+Umur               : 33 Tahun
+Jenis Narkotika    : Ganja
+Berat Barang Bukti : 35.3 gram
+Pasal Dilanggar    : Pasal 111 ayat (1) UU RI No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 5
+Nomor Perkara      : 10/Pid.Sus/2024/PN Sby
+Nama Terdakwa      : M. Ilham Wahyudi Bin Ilyas
+Umur               : 29 Tahun
+Jenis Narkotika    : Sabu (Metamfamina) Golongan I
+Berat Barang Bukti : 1.524 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU RI No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 6
+Nomor Perkara      : 11/Pid.Sus/2024/PN Sby
+Nama Terdakwa      : Gatut Setyo Utomo Bin Suratno
+Umur               : 23 Tahun
+Jenis Narkotika    : Sabu (Metamfamina) Golongan I
+Berat Barang Bukti : 5.054 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU RI No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 7
+Nomor Perkara      : 13/Pid.Sus/2024/PN Sby
+Nama Terdakwa      : Mochamad Yahya Bin Hadi
+Umur               : 33 Tahun
+Jenis Narkotika    : Sabu (Metamfamina) Golongan I
+Berat Barang Bukti : 0.108 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU RI No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 8
+Nomor Perkara      : 15/Pid.Sus/2024/PN Sby
+Nama Terdakwa      : Bryan Dodik Prasetyo Alias Tole Bin Mulyadi
+Umur               : 23 Tahun
+Jenis Narkotika    : Sabu (Metamfamina) Golongan I
+Berat Barang Bukti : 0.128 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU RI No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 9
+Nomor Perkara      : 20/Pid.Sus/2024/PN Sby
+Nama Terdakwa      : Imam Afandi Bin Arkan (Alm)
+Umur               : 32 Tahun
+Jenis Narkotika    : Sabu (Metamfamina) Golongan I
+Berat Barang Bukti : 2.153 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU RI No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 10
+Nomor Perkara      : 21/Pid.Sus/2024/PN Sby
+Nama Terdakwa      : Wahyu Ade Pratama
+Umur               : 20 Tahun
+Jenis Narkotika    : Sabu (Metamfamina) Golongan I
+Berat Barang Bukti : 0.103 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU RI No. 35 Tahun 2009
+
+-----------------------------------------------------------
+Data 11
+Nomor Perkara      : 23/Pid.Sus/2024/PN Sby
+Nama Terdakwa      : Arif Fadilah Alias Hulk Bin Tiam
+Umur               : 30 Tahun
+Jenis Narkotika    : Sabu (Metamfamina) Golongan I
+Berat Barang Bukti : 4.475 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU RI No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 12
+Nomor Perkara      : 25/Pid.Sus/2024/PN Sby
+Nama Terdakwa      : Moch Manjur Bin Rupi
+Umur               : 28 Tahun
+Jenis Narkotika    : Pil Ekstasi & Sabu (Metamfamina) Golongan I
+Berat Barang Bukti : 18.250 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU RI No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 13
+Nomor Perkara      : 27/Pid.Sus/2024/PN Sby
+Nama Terdakwa      : Moch Fahri Bin Jinab
+Umur               : 52 Tahun
+Jenis Narkotika    : Sabu (Metamfamina) Golongan I
+Berat Barang Bukti : 2.10 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU RI No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 14
+Nomor Perkara      : 28/Pid.Sus/2024/PN Sby
+Nama Terdakwa      : Kuswantoro, Choirul Uman, Saipul Bahri
+Umur               : 26 Tahun
+Jenis Narkotika    : Sabu (Metamfamina) Golongan I
+Berat Barang Bukti : 103.62 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU RI No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 15
+Nomor Perkara      : 29/Pid.Sus/2024/PN Sby
+Nama Terdakwa      : Akhmad Riyanto
+Umur               : 43 Tahun
+Jenis Narkotika    : Sabu (Metamfamina) Golongan I
+Berat Barang Bukti : 302.5 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU RI No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 16
+Nomor Perkara      : 30/Pid.Sus/2024/PN Sby
+Nama Terdakwa      : Abdul Bakir
+Umur               : 49 Tahun
+Jenis Narkotika    : Sabu (Metamfamina) Golongan I
+Berat Barang Bukti : 20.88 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU RI No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 17
+Nomor Perkara      : 31/Pid.Sus/2024/PN Sby
+Nama Terdakwa      : Muchamad Umar Faroq
+Umur               : 34 Tahun
+Jenis Narkotika    : Sabu (Metamfamina) Golongan I
+Berat Barang Bukti : 302.5 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU RI No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 18
+Nomor Perkara      : 32/Pid.Sus/2024/PN Sby
+Nama Terdakwa      : Arfin Irfian
+Umur               : 27 Tahun
+Jenis Narkotika    : Sabu (Metamfamina) Golongan I
+Berat Barang Bukti : 1.70 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU RI No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 19
+Nomor Perkara      : 34/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Abdul Gefur Bin Asmar
+Umur               : 37 Tahun
+Jenis Narkotika    : Sabu-sabu
+Berat Barang Bukti : 0.836 gram
+Pasal Dilanggar    : Pasal 112 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 20
+Nomor Perkara      : 36/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Alias Tover Tukan Alias Itong Bin Nico Laos Tukan
+Umur               : 33 Tahun
+Jenis Narkotika    : Sabu-sabu
+Berat Barang Bukti : 1.63 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+Data 21
+Nomor Perkara      : 39/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Moch. Riadi Bin Moch. Ridwan (Alm)
+Umur               : 35 Tahun
+Jenis Narkotika    : Sabu-sabu
+Berat Barang Bukti : 0.0 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 22
+Nomor Perkara      : 45/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Yoga Hardono Bin Sudarno dan Hendrawan Bin Sanurin
+Umur               : 46 Tahun
+Jenis Narkotika    : Sabu-sabu
+Berat Barang Bukti : 1055.0 gram
+Pasal Dilanggar    : Pasal 114 ayat (2) jo Pasal 132 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 23
+Nomor Perkara      : 47/Pid.Sus/2025/PN.Pmk
+Nama Terdakwa      : Abdul Haris Bin Miftahul Arifin
+Umur               : 28 Tahun
+Jenis Narkotika    : Sabu-sabu
+Berat Barang Bukti : 1.964 gram
+Pasal Dilanggar    : Pasal 112 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 24
+Nomor Perkara      : 49/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Abdur Rohman Bin Tahli
+Umur               : 40 Tahun
+Jenis Narkotika    : Sabu-sabu (methamphetamine)
+Berat Barang Bukti : 0.0 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 25
+Nomor Perkara      : 50/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Guntur Pamungkas Alias Tupai Bin Wahyudi
+Umur               : 27 Tahun
+Jenis Narkotika    : Sabu-sabu
+Berat Barang Bukti : 2.089 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 26
+Nomor Perkara      : 54/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Warda Andreansyah Bin Suwarso (Alm)
+Umur               : 24 Tahun
+Jenis Narkotika    : Sabu-sabu
+Berat Barang Bukti : 0.007 gram
+Pasal Dilanggar    : Pasal 112 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 27
+Nomor Perkara      : 55/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Ilham Reza Izzuddin Alias Reza Bin Eko Suhartono
+Umur               : 25 Tahun
+Jenis Narkotika    : Ganja
+Berat Barang Bukti : 12.72 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 28
+Nomor Perkara      : 58/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Kasmanto Bin Slamet
+Umur               : 38 Tahun
+Jenis Narkotika    : Sabu-sabu
+Berat Barang Bukti : 0.043 gram
+Pasal Dilanggar    : Pasal 112 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 29
+Nomor Perkara      : 61/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Fausen Alias Kacong Bin Sonhaji
+Umur               : 23 Tahun
+Jenis Narkotika    : Sabu-sabu
+Berat Barang Bukti : 0.285 gram
+Pasal Dilanggar    : Pasal 112 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 30
+Nomor Perkara      : 62/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Muhammad Rohman Bin Lukdin
+Umur               : 45 Tahun
+Jenis Narkotika    : Sabu-sabu
+Berat Barang Bukti : 0.069 gram
+Pasal Dilanggar    : Pasal 112 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+Data 31
+Nomor Perkara      : 64/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : M. Abdul Sakur dan Musaffa Bin Umar
+Umur               : 26 Tahun
+Jenis Narkotika    : Ekstasi
+Berat Barang Bukti : 1.57 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) jo Pasal 132 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 32
+Nomor Perkara      : 66/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Herianto Alias Heri Bin Sukri (Alm)
+Umur               : 40 Tahun
+Jenis Narkotika    : Sabu-sabu
+Berat Barang Bukti : 3.14 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 33
+Nomor Perkara      : 67/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Lanang Firdaus Ingpranata Buana Bin Raden Monmowangsa
+Umur               : 20 Tahun
+Jenis Narkotika    : Sinte (Tembakau Gorila / Ganja Sintetis)
+Berat Barang Bukti : 47.0 gram
+Pasal Dilanggar    : Pasal 114 ayat (2) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 34
+Nomor Perkara      : 79/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Moch. Nopel Bin Binakram (Alm)
+Umur               : 45 Tahun
+Jenis Narkotika    : Sabu-sabu (Shabu)
+Berat Barang Bukti : 0.513 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 35
+Nomor Perkara      : 80/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Moch. Dahlan Bin Rasit (Alm)
+Umur               : 48 Tahun
+Jenis Narkotika    : Sabu-sabu
+Berat Barang Bukti : 10.0 gram
+Pasal Dilanggar    : Pasal 114 ayat (2) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 36
+Nomor Perkara      : 84/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Husnul Yaqin Als Asmad Bin Zahrah
+Umur               : 41 Tahun
+Jenis Narkotika    : Sabu-sabu
+Berat Barang Bukti : 0.639 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 37
+Nomor Perkara      : 86/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Moch. Oesman Bin Mat Sui
+Umur               : 48 Tahun
+Jenis Narkotika    : Sabu-sabu
+Berat Barang Bukti : 0.868 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 38
+Nomor Perkara      : 87/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Yuli Subagyo Bin Irsad (Alm)
+Umur               : 46 Tahun
+Jenis Narkotika    : Sabu-sabu
+Berat Barang Bukti : 1.681 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 39
+Nomor Perkara      : 88/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Ahmad Faishol Als Faishol Bin Shobari
+Umur               : 29 Tahun
+Jenis Narkotika    : Ganja dan Sabu-sabu
+Berat Barang Bukti : 145.56 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 40
+Nomor Perkara      : 91/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Ketot Samiawan Alias Wawa Bin Ponimin (Alm)
+Umur               : 34 Tahun
+Jenis Narkotika    : Sabu-sabu
+Berat Barang Bukti : 4.5 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+Data 41
+Nomor Perkara      : 94/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Fikri Ramadanu Bin Mardjuki
+Umur               : 21 Tahun
+Jenis Narkotika    : Sabu-sabu
+Berat Barang Bukti : 0.200 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 42
+Nomor Perkara      : 95/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Rasmat Als. Lahmat Bin Mat Radji
+Umur               : 58 Tahun
+Jenis Narkotika    : Sabu-sabu
+Berat Barang Bukti : 1.98 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 43
+Nomor Perkara      : 96/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Achmad Junaidi dan Fajar Apriyanto
+Umur               : 36 Tahun
+Jenis Narkotika    : Sabu-sabu
+Berat Barang Bukti : 2.536 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) jo Pasal 132 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 44
+Nomor Perkara      : 97/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Dimas Agus Setiawan Bin Dadik Masturiawan
+Umur               : 21 Tahun
+Jenis Narkotika    : Sabu-sabu
+Berat Barang Bukti : 0.259 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 45
+Nomor Perkara      : 98/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Moch. Saiful Bin Moch. Hustadi
+Umur               : 37 Tahun
+Jenis Narkotika    : Sabu-sabu (Metamfetamina) - Golongan I
+Berat Barang Bukti : 1.77 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 46
+Nomor Perkara      : 103/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Hadi Yatno dan Achmad Fauzi
+Umur               : 32 Tahun
+Jenis Narkotika    : Sabu-sabu (Metamfetamina) - Golongan I
+Berat Barang Bukti : 1.27 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) jo Pasal 132 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 47
+Nomor Perkara      : 109/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Achmad Surya Dwiyansyah Bin Mulyono
+Umur               : 29 Tahun
+Jenis Narkotika    : Sabu-sabu (Metamfetamina)
+Berat Barang Bukti : 0.69 gram
+Pasal Dilanggar    : Pasal 112 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 48
+Nomor Perkara      : 112/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Yasin Arif dan Irvin Irnandy
+Umur               : 33 Tahun
+Jenis Narkotika    : Sabu-sabu (Metamfetamina)
+Berat Barang Bukti : 1.663 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) jo Pasal 132 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 49
+Nomor Perkara      : 114/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Mochamad Bushiri Bin Agoes Soepriadi
+Umur               : 23 Tahun
+Jenis Narkotika    : Ganja (Cannabis)
+Berat Barang Bukti : 4.99 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------
+
+Data 50
+Nomor Perkara      : 119/Pid.Sus/2024/PN.Sby
+Nama Terdakwa      : Agham Taufan Ariesti Bin Moch. Zainal Arifin
+Umur               : 30 Tahun
+Jenis Narkotika    : Sabu-sabu (Metamfetamina)
+Berat Barang Bukti : 0.22 gram
+Pasal Dilanggar    : Pasal 114 ayat (1) UU No. 35 Tahun 2009
+
+-----------------------------------------------------------

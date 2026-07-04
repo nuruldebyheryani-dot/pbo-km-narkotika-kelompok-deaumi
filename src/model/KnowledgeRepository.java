@@ -494,8 +494,8 @@ public class KnowledgeRepository {
             if (p.getNamaTerdakwa().toLowerCase().contains(namaDicari.toLowerCase())) {
                 hasil.add(p);
             }
-        } // <--- Kurung tutup untuk 'for' ditambahkan di sini
-        return hasil; // <--- Return sekarang berada di luar 'for'
+        }
+        return hasil;
     }
 
     public ArrayList<Putusan> getDaftarSemua() {
